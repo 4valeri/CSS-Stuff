@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <style>
+        div {
+            background-color: #BCD2EE;
+            border: 1px solid black;
+            border-radius: 5px;
+            text-align: center;
+            height: 20px;
+        }
+        #p1 {
+            display: inline;
+            position: relative;
+            margin-left: 200px;
+        }
+        #p2 {     
+            display: inline;
+            position: relative;
+            margin-left: 20px;
+        }
+        #p3 {
+            display: inline;
+            position: relative;
+            margin-left: 20px;
+        }
+        .space {
+            opacity: 0;
+        }
+                #title {     
+            display: inline;
+            position: relative;
+            margin-left: 150px;
+        }
+        #div {
+            display: inline;
+            position: relative;
+            margin-left: 100px;
+        }
+                        #head {     
+            display: inline;
+            position: relative;
+            margin-left: 170px;
+        }
+        #body {
+            display: inline;
+            position: relative;
+            margin-left: 40px;
+        }
+                #html {
+            display: inline;
+            position: relative;
+            margin-left: 205px;
+        }
+
+    </style>
+</head>
+<body>
+    <div id="p1">P</div>
+    <div id="p2">P</div>
+    <div id="p3">P</div>
+    <div class="space"></div>
+    <div id="title">Title</div>
+    <div id="div">Div</div>
+    <div class="space"></div>
+    <div id="head">Head</div>
+    <div id="body">Body</div>
+    <div class="space"></div>
+    <div id="html">HTML</div>
+</body>
+</html>
